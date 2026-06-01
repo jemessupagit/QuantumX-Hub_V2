@@ -1,7 +1,7 @@
-# 🥔 QuantumX Hub V2.5 - Semi-potato graphic
+# 🥔 QuantumX Hub V2.6 - Semi-potato graphic
 ### Advanced Mobile & PC Performance Core for Roblox
 
-**By JamesZZS222** | **Version: 2.5.0** | **Open Source**
+**By JamesZZS222** | **Version: 2.6.1** | **Open Source**
 
 📖 Description
 QuantumX Hub V2.5 is a lightweight performance booster for Roblox on low-end devices. It reduces graphics, removes unnecessary effects, and optimizes memory to increase FPS from 1-9 up to 30-60+. Features Low/Medium/Super modes, Auto-clean memory, and real-time FPS display. No external software required.
