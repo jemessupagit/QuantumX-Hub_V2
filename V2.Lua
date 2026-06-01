@@ -1,6 +1,6 @@
--- Script Name: QuantumX Hub - Semi-potato V3 (Ultimate Auto-Run)
+-- Script Name: QuantumX Hub - Semi-potato V2.5 (Ultimate Auto-Run)
 -- Created by: JamesZZS222
--- Version: 3.0.0
+-- Version: 2.5.0
 -- Target: Roblox Luau Engine (Ultimate Performance Core)
 
 -- =============================================================================
